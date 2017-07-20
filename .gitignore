@@ -1,0 +1,9 @@
+app/
+test/
+client/
+swagger/
+tool/
+security
+secured
+goa-optional-token
+tool
